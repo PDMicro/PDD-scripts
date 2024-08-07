@@ -17,7 +17,6 @@ library(philentropy)
 library(ggrepel)
 library(pheatmap)
 library(psych)
-l
 library(tidyr)
 library(rstatix)
 library(ggforce)
